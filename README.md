@@ -1,7 +1,8 @@
 <div align="center">
 
-**Available Anime sources**
+**Available Anime Sources**
 
+<h5 align="center">
 
 | SITE                                      | STATUS  | DOWNLOADS |
 |:-----------------------------------------:|:-------:|:---------:|
@@ -19,8 +20,10 @@
 | [HentaiStream (18+)](https://hentaistream.com)  | WORKING | YES  |
 | [HentaiFF (18+)](https://hentaiff.com)          | WORKING | SOME |
 
+</h5>
+<h5 align="center">
 
-**Available Manga sources**
+**Available Manga Sources**
 
 
 | SITE                                     | STATUS  |
@@ -38,12 +41,12 @@
 | [NineHentai (18+)](https://ninehentai.net)| NOT WORKING |
 | [Manwha18 (18+)](https://manhwa18.cc)   | WORKING |
 
+</h5>
+<div align="center">
 
 [**More Anime & Manga Website**](https://github.com/ikx7a/Anime)
 
 </div>
-
-
 <br>
 
 [Anime](https://github.com/ikx7a/Anime) Resources is licensed under the [GNU General Public License v3.0](https://github.com/Hiteshxd/AnimeS/blob/main/LICENSE)
