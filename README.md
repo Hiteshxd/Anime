@@ -1,4 +1,7 @@
-* **Available Anime sources:-**
+<div align="center">
+
+**Available Anime sources**
+
 
 | SITE                                      | STATUS  | DOWNLOADS |
 |:-----------------------------------------:|:-------:|:---------:|
@@ -17,7 +20,8 @@
 | [HentaiFF (18+)](https://hentaiff.com)          | WORKING | SOME |
 
 
-* **Available Manga sources:-**
+**Available Manga sources**
+
 
 | SITE                                     | STATUS  |
 |:----------------------------------------:|:-------:|
@@ -34,4 +38,12 @@
 | [NineHentai (18+)](https://ninehentai.net)| NOT WORKING |
 | [Manwha18 (18+)](https://manhwa18.cc)   | WORKING |
 
-Anime Resources is licensed under the [GNU General Public License v3.0]()
+
+[**More Anime & Manga Website**](https://github.com/ikx7a/Anime)
+
+</div>
+
+
+<br>
+
+[AnimeSources](https://github.com/ikx7a/AnimeSource) is licensed under the [GNU General Public License v3.0](https://github.com/ikx7a/AnimeSource/blob/main/LICENSE)
