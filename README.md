@@ -25,7 +25,6 @@
 
 **Available Manga Sources**
 
-
 | SITE                                     | STATUS  |
 |:----------------------------------------:|:-------:|
 | [MangaKakalot](https://mangakakalot.com)| WORKING |
@@ -44,10 +43,11 @@
 </h5>
 </div>
 <div align="center">
+<br>
 
 [**More Anime & Manga Website**](https://github.com/ikx7a/Anime)
 
 </div>
-<br>
+<br/>
 
 [Anime](https://github.com/ikx7a/Anime) Resources is licensed under the [GNU General Public License v3.0](https://github.com/Hiteshxd/AnimeS/blob/main/LICENSE)
