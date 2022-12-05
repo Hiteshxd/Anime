@@ -53,4 +53,4 @@
 </div>
 <br/>
 
-[Anime](https://github.com/ikx7a/Anime) Resources is licensed under the [GNU General Public License v3.0](https://github.com/Hiteshxd/AnimeS/blob/main/LICENSE).
+[Anime](https://github.com/ikx7a/Anime) Resources is licensed under the [GNU General Public License v3.0](https://github.com/Hiteshxd/Anime/blob/main/LICENSE).
