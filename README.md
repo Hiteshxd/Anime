@@ -45,6 +45,8 @@
 <div align="center">
 <br>
 
+[CONTRIBUTING]()
+
 [**More Anime & Manga Website**](https://github.com/ikx7a/Anime)
 
 </div>
