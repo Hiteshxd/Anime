@@ -2,7 +2,7 @@
 
 **Available Anime Sources**
 
-<h5 align="center">
+<h5>
 
 | SITE                                      | STATUS  | DOWNLOADS |
 |:-----------------------------------------:|:-------:|:---------:|
@@ -21,7 +21,7 @@
 | [HentaiFF (18+)](https://hentaiff.com)          | WORKING | SOME |
 
 </h5>
-<h5 align="center">
+<h5>
 
 **Available Manga Sources**
 
@@ -42,6 +42,7 @@
 | [Manwha18 (18+)](https://manhwa18.cc)   | WORKING |
 
 </h5>
+</div>
 <div align="center">
 
 [**More Anime & Manga Website**](https://github.com/ikx7a/Anime)
