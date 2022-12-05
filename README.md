@@ -2,7 +2,7 @@
 
 <img src="https://github.com/Hiteshxd/Anime/blob/main/Resources/_main_py.jpg">
 
-[Contributing](https://github.com/HiteshXd/Anime/blob/main/CONTRIBUTING.md) Most Welcome, [Motivation/Inspired](https://github.com/ikx7a/).
+We Welcome Contributions! Please see [CONTRIBUTING.md](https://github.com/HiteshXd/Anime/blob/main/CONTRIBUTING.md) for details, [Motivation/Inspired](https://github.com/ikx7a/).
 
 **Available Anime Sources**
 
