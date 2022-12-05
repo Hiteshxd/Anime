@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://github.com/Hiteshxd/Anime/blob/main/Resources/_main_py.jpg">
+
 [Contributing](https://github.com/HiteshXd/Anime/blob/main/CONTRIBUTING.md) Most Welcome, [Motivation/Inspired](https://github.com/ikx7a/).
 
 **Available Anime Sources**
@@ -47,6 +49,8 @@
 </div>
 <div align="center">
 <br>
+
+<img src="https://github.com/ikx7a/Anime/blob/main/Resources/__main__py.jpg">
 
 [**More Anime & Manga Website**](https://github.com/ikx7a/Anime)
 
