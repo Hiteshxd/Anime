@@ -31,14 +31,6 @@ We Welcome Contributions! Please see [CONTRIBUTING.md](https://github.com/Hitesh
 | [Comickfun](https://comick.fun)         | WORKING |
 | [MangaHub](https://mangahub.io)         | WORKING |
 
-<sub><b>Warning! Adult content, you must be at least 18 years old to enter this site.</b></sub>
-
-| SITE                                      | STATUS  |
-|:-----------------------------------------:|:-------:|
-| [NHentai (18+)](https://nhentai.net)      | NOT WORKING |
-| [NineHentai (18+)](https://ninehentai.net)| NOT WORKING |
-| [Manwha18 (18+)](https://manhwa18.cc)   | WORKING |
-
 </div>
 <div align="center">
 <br>
