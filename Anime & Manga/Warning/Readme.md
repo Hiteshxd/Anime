@@ -15,7 +15,8 @@
 
 | SITE                                      | STATUS  |
 |:-----------------------------------------:|:-------:|
+| [hentairox](https://hentairox.com)        | WORKING |
 | [Im Hentai](https://imhentai.xxx)         | WORKING |
-| [NHentai](https://nhentai.net)            | NOT WORKING |
+| [NHentai](https://nhentai.net)            | WORKING |
 | [Nine Hentai](https://ninehentai.net)     | NOT WORKING |
 | [Manwha18](https://manhwa18.cc)           | WORKING |
