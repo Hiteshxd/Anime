@@ -7,6 +7,7 @@
 | [AnimeidHentai](https://animeidhentai.com) | WORKING | SOME |
 | [Haho](https://haho.moe)                  | WORKING | YES  |
 | [HentaiMama](https://hentaimama.io)       | WORKING | SOME |
+| [HentaiHaven](https://hentaihaven.com)    | WORKING | NO |
 | [HentaiStream](https://hentaistream.com)  | WORKING | YES  |
 | [HentaiFF](https://hentaiff.com)          | WORKING | SOME |
 | [HentaiHaven](https://hentaihaven.xxx)    | WORKING | YES |
