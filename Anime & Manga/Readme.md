@@ -16,4 +16,4 @@ please EXIT now.
 <br>
 
 <a href="https://github.com/HiteshXd/Anime"> `EXIT` </a>ㅤㅤㅤ
-ㅤㅤㅤ<a href=""> `ENTER` </a>
+ㅤㅤㅤ<a href="https://github.com/HiteshXd/Anime/tree/main/Anime%20%26%20Manga/Warning"> `ENTER` </a>
