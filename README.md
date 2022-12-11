@@ -17,6 +17,8 @@ We Welcome Contributions! Please see [CONTRIBUTING.md](https://github.com/Hitesh
 | [AnimixPlay](https://animixplay.to)       | WORKING | NO  |
 | [9Anime Backup](https://animekisa.in)     | WORKING | NO   |
 
+<a href="https://instagram.com/ikx7.a"><img width="100px" alt="Warning" title="Warning" src="https://github.com/HiteshXd/Anime/blob/main/Resources/Warning.png"></a>
+
 **Available Manga Sources**
 
 | SITE                                     | STATUS  |
@@ -33,7 +35,6 @@ We Welcome Contributions! Please see [CONTRIBUTING.md](https://github.com/Hitesh
 
 </div>
 <div align="center">
-<br>
 
 <img src="https://github.com/ikx7a/Anime/blob/main/Resources/__main__py.jpg">
 
