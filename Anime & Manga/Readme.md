@@ -15,5 +15,5 @@ please EXIT now.
 <br>
 <br>
 
-<a href=""> `EXIT` </a>ㅤㅤㅤ
+<a href="https://github.com/HiteshXd/Anime"> `EXIT` </a>ㅤㅤㅤ
 ㅤㅤㅤ<a href=""> `ENTER` </a>
