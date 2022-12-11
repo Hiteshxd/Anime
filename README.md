@@ -6,8 +6,6 @@ We Welcome Contributions! Please see [CONTRIBUTING.md](https://github.com/Hitesh
 
 **Available Anime Sources**
 
-<h5>
-
 | SITE                                      | STATUS  | DOWNLOADS |
 |:-----------------------------------------:|:-------:|:---------:|
 | [9Anime](https://9anime.pl)               | WORKING | SOME |
@@ -15,20 +13,20 @@ We Welcome Contributions! Please see [CONTRIBUTING.md](https://github.com/Hitesh
 | [AllAnime](https://allanime.site)         | WORKING | SOME |
 | [Zoro](https://zoro.to)                   | WORKING | SOME |
 | [Tenshi](https://tenshi.moe)              | WORKING | YES  |
-| [Kamyroll](https://kamyroll.com)| WORKING | NO   |
 | [AnimePahe](https://animepahe.ru)| SEMI-WORKING | NO   |
 | [AnimixPlay](https://animixplay.to)       | WORKING | NO  |
 | [9Anime Backup](https://animekisa.in)     | WORKING | NO   |
+
+<sub> <b>Warning! Adult content, you must be at least 18 years old to enter this site.</b></sub>
+
+| SITE                                      | STATUS  | DOWNLOADS |
+|:-----------------------------------------:|:-------:|:---------:|
 | [Haho (18+)](https://haho.moe)                  | WORKING | YES  |
 | [HentaiMama (18+)](https://hentaimama.io)       | WORKING | SOME |
 | [HentaiStream (18+)](https://hentaistream.com)  | WORKING | YES  |
 | [HentaiFF (18+)](https://hentaiff.com)          | WORKING | SOME |
 
-</h5>
-
 **Available Manga Sources**
-
-<h5>
 
 | SITE                                     | STATUS  |
 |:----------------------------------------:|:-------:|
@@ -41,11 +39,15 @@ We Welcome Contributions! Please see [CONTRIBUTING.md](https://github.com/Hitesh
 | [AllAnime](https://allanime.site)       | WORKING |
 | [Comickfun](https://comick.fun)         | WORKING |
 | [MangaHub](https://mangahub.io)         | WORKING |
+
+<sub><b>Warning! Adult content, you must be at least 18 years old to enter this site.</b></sub>
+
+| SITE                                      | STATUS  |
+|:-----------------------------------------:|:-------:|
 | [NHentai (18+)](https://nhentai.net)      | NOT WORKING |
 | [NineHentai (18+)](https://ninehentai.net)| NOT WORKING |
 | [Manwha18 (18+)](https://manhwa18.cc)   | WORKING |
 
-</h5>
 </div>
 <div align="center">
 <br>
