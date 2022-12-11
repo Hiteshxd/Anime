@@ -2,8 +2,6 @@
 
 **Anime Resources**
 
-<h6>
-
 | SITE                                      | STATUS  | DOWNLOADS |
 |:-----------------------------------------:|:-------:|:---------:|
 | [Haho (18+)](https://haho.moe)                  | WORKING | YES  |
@@ -12,3 +10,10 @@
 | [HentaiFF (18+)](https://hentaiff.com)          | WORKING | SOME |
 | [HentaiHaven (18+)](https://hentaihaven.xxx)    | WORKING | SOME |
 
+**Manga Resources**
+
+| SITE                                      | STATUS  |
+|:-----------------------------------------:|:-------:|
+| [NHentai (18+)](https://nhentai.net)      | NOT WORKING |
+| [NineHentai (18+)](https://ninehentai.net)| NOT WORKING |
+| [Manwha18 (18+)](https://manhwa18.cc)   | WORKING |
