@@ -1,6 +1,6 @@
 <div align="center">
 
-**Anime Resources**
+**Anime Resources 18+**
 
 | SITE                                      | STATUS  | DOWNLOADS |
 |:-----------------------------------------:|:-------:|:---------:|
@@ -13,7 +13,7 @@
 | [HentaiHaven](https://hentaihaven.xxx)    | WORKING | YES |
 | [HentaiKing](https://hentaiking.com)      | WORKING | NO |
 
-**Manga Resources**
+**Manga Resources 18+**
 
 | SITE                                      | STATUS  |
 |:-----------------------------------------:|:-------:|
