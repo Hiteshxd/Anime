@@ -15,7 +15,7 @@ We Welcome Contributions! Please see [CONTRIBUTING.md](https://github.com/Hitesh
 | [AllAnime](https://allanime.site)         | WORKING | SOME |
 | [Zoro](https://zoro.to)                   | WORKING | SOME |
 | [Tenshi](https://tenshi.moe)              | WORKING | YES  |
-| [Kamyroll](https://kamyroll.herokuapp.com)| WORKING | NO   |
+| [Kamyroll](https://kamyroll.com)| WORKING | NO   |
 | [AnimePahe](https://animepahe.ru)| SEMI-WORKING | NO   |
 | [AnimixPlay](https://animixplay.to)       | WORKING | NO  |
 | [9Anime Backup](https://animekisa.in)     | WORKING | NO   |
